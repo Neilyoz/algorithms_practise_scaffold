@@ -7,7 +7,7 @@
 
 ```bash
 git clone https://github.com/neilyoz/algorithms_practise_scaffold
-cd algorithms_practise
+cd algorithms_practise_scaffold
 mvn install:install-file -Dfile="lib/algs4.jar" -DgroupId="edu.princeton.cs" -DartifactId=algs4 -Dversion="1.0.0" -Dpackaging=jar
 ```
 
